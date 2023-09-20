@@ -4,6 +4,6 @@
 #   Rodrigo Ceraolo
 #   Jonatan Oscar Olmos,
         Edad: 30,
-        ciudad de residencia: San Nicolas De Los Arroyos, Buenos Aires,
+        Ciudad: San Nicolas De Los Arroyos, Buenos Aires,
 #   Amparo Pascual
 #   Gaston Diaz
