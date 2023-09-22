@@ -4,4 +4,6 @@
 #   Rodrigo Ceraolo
 #   Jonatan Oscar Olmos
 #   Amparo Pascual
+        Edad: 20 años,
+        Residencia: Godoy Cruz, Mendoza.
 #   Gaston Diaz
