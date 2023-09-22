@@ -21,4 +21,4 @@ let homePage = {
     }
 }
 
-module.exports = homePag
+module.exports = homePage
