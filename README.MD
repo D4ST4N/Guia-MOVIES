@@ -1,6 +1,8 @@
 # Guia | MOVIES
 # Participantes grupo 10: 
 #   Facundo Ramirez 
+        Edad: 27
+        Ciudad: Monte Grande, Buenos Aires,
 #   Rodrigo Ceraolo, 
         Edad: 33
         Ciudad: Buenos Aires
