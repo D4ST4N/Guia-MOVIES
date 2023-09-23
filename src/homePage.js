@@ -21,4 +21,4 @@ let homePage = {
   },
 };
 
-module.exports = homePage;
+module.exports = homePag;
